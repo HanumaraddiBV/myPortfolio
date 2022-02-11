@@ -575,3 +575,34 @@ nav .link {
 		display: flex;
 	}
 }
+
+.prImg {
+	width: 400px;
+	height: 250px;
+}
+#profile_img {
+	width: 100%;
+	height: 100%;
+	border-radius: 100px;
+}
+#profile_div {
+	margin-bottom: 40px;
+	width: 200px;
+	height: 200px;
+	margin-left: 100px;
+	margin-top: 70px;
+}
+#nav-bar {
+	position: fixed;
+	top: 0;
+	right: 20px;
+	margin-top: 30px;
+	background-color: transparent;
+}
+#nav-txt {
+	position: fixed;
+	top: 0;
+	left: 40px;
+	margin-top: 30px;
+	background-color: transparent;
+}
